@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestFlatMap" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-01-20T14:04:16" hostname="fedora" time="0.12">
-  <properties/>
-  <testcase name="testGetOrderedProductsSet" classname="TestFlatMap" time="0.113"/>
-  <testcase name="testGetAllOrderedProducts" classname="TestFlatMap" time="0.006"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
